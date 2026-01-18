@@ -1,0 +1,8 @@
+{
+  "label": "数据持久化层场景实战",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "主要讲解存储的数据量太大影响读写性能时，如何在存储层采取措施来解决性能问题。"
+  }
+}

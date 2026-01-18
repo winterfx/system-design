@@ -1,0 +1,8 @@
+{
+  "label": "开发运维场景实战",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "主要讲解如何通过一些架构上的设计来提高开发效率和测试微服务的效率。包括接口Mock服务设计和一人一套测试环境的容器化方案。"
+  }
+}
